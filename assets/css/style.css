@@ -1,0 +1,69 @@
+.container-fluid{
+    background-color: #E83E8C;
+    
+}
+
+h1{
+    color: #707070;
+    opacity: 1;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+}
+
+.footer1{
+height: 10rem;
+background-color: #17A2B8;
+}
+.footer1 h2{
+    color: #ffffff;
+    position: relative;
+    top: 3rem;
+    left: 5rem;
+    font-size: 3rem;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700
+}
+.caja{
+    display: inline-block;
+    width: 15%;
+}
+i{
+    color: #ffffff;
+    display: inline-block;
+    font-size: 4rem;
+position: relative;
+left: 20rem;
+letter-spacing: 1rem;
+}
+.footer2{
+    height: 6rem;
+    background-color: #E83E8C ;
+    
+}
+.footer2 img{
+    height: 6rem;
+    align-items: center;
+    margin-left: 40rem;
+}
+.footer1 h1{
+    display: inline-block;
+
+.tarjetas{
+    position: relative;
+    right: 15rem;
+
+    }
+}
+.texto{
+    height: 52px;
+    width: 350px;
+}
+/*codigo de dani*/
+/* .navbar-toggler {
+    border-color: #fff;
+  }
+  .navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  } */
